@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ThreePhaseCommit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ThreePhaseCommit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

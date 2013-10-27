@@ -1,0 +1,64 @@
+Oct 18, 2013 5:28:27 PM ut.distcomp.threephase.Contributor <init>
+INFO: deathAfter_n -1 deathAfter_src -1deathAfter_dest -1
+Oct 18, 2013 5:28:27 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>>> Entered pollsock()
+Oct 18, 2013 5:28:44 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:29:01 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:29:18 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:29:35 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:29:52 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:30:09 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:30:26 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:30:43 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:31:00 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:31:17 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:31:34 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:31:51 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:32:08 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:32:25 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:32:42 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:32:59 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:33:16 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:33:33 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:33:50 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:34:07 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:34:24 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:34:41 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:34:58 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:35:15 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:35:32 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:35:49 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:36:06 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:36:23 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:36:40 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC
+Oct 18, 2013 5:36:57 PM ut.distcomp.threephase.Contributor$Coordinator pollSockCoordinator
+INFO: <<<0>>> Waiting to initialize 3PC

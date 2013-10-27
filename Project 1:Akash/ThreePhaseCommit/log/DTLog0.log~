@@ -1,0 +1,8 @@
+<<<0>>> Start Logging
+Upset=[0, 1, 2]
+Reset upset for new transaction: [0, 1, 2]
+Request=0;add;soum;ghosh;vote_req
+Precommit=0;add;soum;ghosh;precommit
+<<<0>>> Start Logging
+Decision=0;add;soum;ghosh;commit
+Reset upset for new transaction: [0, 1, 2]

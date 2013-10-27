@@ -1,0 +1,7 @@
+<<<2>>> Start Logging
+Upset=[0, 1, 2]
+Upset= [0, 1, 2]
+Response=2;add;mouse;mouse;yes
+Upset=[1, 2]
+Upset=[2]
+Decision=2;add;mouse;mouse;abort
